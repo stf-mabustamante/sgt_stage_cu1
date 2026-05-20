@@ -1,0 +1,132 @@
+{
+    "BigQuery Schema":[
+    { 
+        "mode": "REQUIRED",
+        "name": "periodo_dia",
+        "type": "DATE"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potcod",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potpzo",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potnom",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potsis",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potpda",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potest",
+        "type": "STRING"
+    }, 
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potrjs",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potrep",
+        "type": "STRING"
+    }, 
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potmrg",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potctb",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potcti",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_pottkv",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_pottiv",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_pottke",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_pottie",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_pottic",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potnbc",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potmb1",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potuso",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "pot_potsbi",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "MDM_fhNew",
+        "type": "TIMESTAMP"
+  },
+  {
+        "mode": "NULLABLE",
+        "name": "MDM_ProcessNew",
+        "type": "STRING"
+  },
+  {
+        "mode": "NULLABLE",
+        "name": "MDM_hash",
+        "type": "STRING"
+  }
+
+]}
+
+    
+        
+    
+    
+    
+    
+    

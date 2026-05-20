@@ -1,0 +1,43 @@
+{
+    "BigQuery Schema":[
+    { 
+        "mode": "REQUIRED",
+        "name": "periodo_dia",
+        "type": "DATE"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "vmccod",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "vmcfec",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "vmcprc",
+        "type": "STRING"
+    },
+    { 
+        "mode": "NULLABLE",
+        "name": "vmctca",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "MDM_fhNew",
+        "type": "TIMESTAMP"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "MDM_ProcessNew",
+        "type": "STRING"
+    },
+    {
+        "mode": "NULLABLE",
+        "name": "MDM_hash",
+        "type": "STRING"
+    }
+]}
